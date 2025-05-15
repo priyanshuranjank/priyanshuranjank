@@ -1,6 +1,10 @@
+## 👋 Hi, I'm Priyanshu Ranjan (He/Him)
+
 # 💫 About Me:
-I'm a passionate learner and tech enthusiast who loves tackling real-world problems and building impactful, scalable solutions. Currently refining my **web development skills** with a focus on **full-stack technologies**, while staying sharp in **Data Structures & Algorithms** through competitive programming. <br><br>
-🔭 Currently working on React.js , Node.js,Data Structures and Algorithms.<br>🤝 Looking to collaborate on Web Development projects.<br>📔 Gaining hands-on experience with Java Spring Boot and expanding my full-stack skills. <br>📧Reach me at: priyanshuranjan1r@gmail.com
+I'm a passionate learner and tech enthusiast who loves tackling real-world problems and building impactful, scalable solutions. Currently refining my **web development skills** with a focus on **full-stack technologies**, while staying sharp in **Data Structures & Algorithms** through competitive programming. <br>
+
+### 🚀 What I'm Up To
+🔭 Currently working on React.js, Node.js, Data Structures and Algorithms.<br>🤝 Looking to collaborate on Web Development projects.<br>📔 Gaining hands-on experience with Java Spring Boot and expanding my full-stack skills. <br>📧Reach me at: priyanshuranjan1r@gmail.com
 
 
 ## 🌐 Socials:
@@ -16,4 +20,4 @@ I'm a passionate learner and tech enthusiast who loves tackling real-world probl
 ---
 [![](https://visitcount.itsvg.in/api?id=priyanshuranjank&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+📌 *Feel free to connect or collaborate — I’m always excited to learn and build with others!*
