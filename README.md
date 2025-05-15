@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 Currently working on React.js , Node.js,Data Structures and Algorithms.<br>🤝 Looking to collaborate on Web Development projects.<br>📔 Gaining hands-on experience with Java Spring Boot and expanding my full-stack skills by building scalable applications.<br>📧Reach me at: priyanshuranjan1r@gmail.com
+I'm a passionate learner and tech enthusiast who loves tackling real-world problems and building impactful, scalable solutions. Currently refining my **web development skills** with a focus on **full-stack technologies**, while staying sharp in **Data Structures & Algorithms** through competitive programming. <br><br>
+🔭 Currently working on React.js , Node.js,Data Structures and Algorithms.<br>🤝 Looking to collaborate on Web Development projects.<br>📔 Gaining hands-on experience with Java Spring Boot and expanding my full-stack skills. <br>📧Reach me at: priyanshuranjan1r@gmail.com
 
 
 ## 🌐 Socials:
