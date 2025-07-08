@@ -5,7 +5,7 @@ I'm a passionate learner and tech enthusiast who loves tackling real-world probl
 Currently, I'm focused on refining my **full-stack web development skills** while staying sharp in **Data Structures & Algorithms** through competitive programming.<br>
 
 ### 🚀 What I'm Up To
-🔭 Currently working on React.js, Node.js, Data Structures and Algorithms.<br>🤝 Looking to collaborate on Web Development projects.<br>📔 Gaining hands-on experience with Java Spring Boot and expanding my full-stack skills. <br>📧Reach me at: priyanshuranjan1r@gmail.com
+🔭 Currently working on React.js, Node.js, Data Structures and Algorithms.<br>🤝 Looking to collaborate on Web Development projects.<br>📔 Gaining hands-on experience with MERN and expanding my full-stack skills. <br>📧Reach me at: priyanshuranjan1r@gmail.com
 
 
 ## 🌐 Socials:
